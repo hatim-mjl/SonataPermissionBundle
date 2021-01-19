@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.4.0",
         "symfony/symfony": "^5.0",
-        "doctrine/doctrine-bundle": "~2.0",
+        "doctrine/doctrine-bundle": "^1.6",
         "sonata-project/admin-bundle": "^3.35",
         "sonata-project/user-bundle": "^4.2"
     },
